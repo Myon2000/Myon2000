@@ -84,10 +84,10 @@
 
 ### 🏆 Honors & Leadership
 
-- 🥇 **1st Winner — LAOS Arena 2024:** Server security defense against simulated DDOS attacks & Linux iptables firewall tuning.
-- 🏆 **Winner — Competitive Programming Championship 2024:** Algorithmic optimization & data structures (Friendship Fasilkom UNEJ).
-- 📜 **Certified System Delivery — SIPUBI (2025):** Official institutional credential for software engineering & distribution management.
-- 📌 **Project Lead — Informatics Olympiad 2025:** Led regional computing competition operations and technical committees.
+- 🥇 **1st Winner : LAOS Arena 2024:** Server security defense against simulated DDOS attacks & Linux iptables firewall tuning.
+- 🏆 **Winner : Competitive Programming Championship 2024:** Algorithmic optimization & data structures (Friendship Fasilkom UNEJ).
+- 📜 **Certified System Delivery : SIPUBI (2025):** Official institutional credential for software engineering & distribution management.
+- 📌 **Project Lead : Informatics Olympiad 2025:** Led regional computing competition operations and technical committees.
 
 ***
 
