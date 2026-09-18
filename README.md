@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://myon.my.id" target="_blank">
+  <a href="https://personalporto.myon.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-myon.my.id-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/oktavian-ramadhani-41a367299/" target="_blank">
