@@ -106,5 +106,5 @@
 </p>
 
 <p align="center">
-  <sub>Designed with precision &bull; <a href="https://myon.my.id">myon.my.id</a></sub>
+  <sub>Designed with precision &bull; <a href="https://personalporto.myon.my.id">myon.my.id</a></sub>
 </p>
