@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://personalporto.myon.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-myon.my.id-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-personalporto.myon.my.id-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/oktavian-ramadhani-41a367299/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -84,10 +84,10 @@
 
 ### 🏆 Honors & Leadership
 
-- 🥇 **1st Winner : LAOS Arena 2024:** Server security defense against simulated DDOS attacks & Linux iptables firewall tuning.
-- 🏆 **Winner : Competitive Programming Championship 2024:** Algorithmic optimization & data structures (Friendship Fasilkom UNEJ).
-- 📜 **Certified System Delivery : SIPUBI (2025):** Official institutional credential for software engineering & distribution management.
-- 📌 **Project Lead : Informatics Olympiad 2025:** Led regional computing competition operations and technical committees.
+- 🥇 **1st Winner (LAOS Arena 2024):** Server security defense against simulated DDOS attacks & Linux iptables firewall tuning.
+- 🏆 **Winner (Competitive Programming Championship 2024):** Algorithmic optimization & data structures (Friendship Fasilkom UNEJ).
+- 📜 **Certified System Delivery (SIPUBI 2025):** Official institutional credential for software engineering & distribution management.
+- 📌 **Project Lead (Informatics Olympiad 2025):** Led regional computing competition operations and technical committees.
 
 ***
 
@@ -106,5 +106,5 @@
 </p>
 
 <p align="center">
-  <sub>Designed with precision &bull; <a href="https://personalporto.myon.my.id">myon.my.id</a></sub>
+  <sub>Designed with precision &bull; <a href="https://personalporto.myon.my.id">personalporto.myon.my.id</a></sub>
 </p>
